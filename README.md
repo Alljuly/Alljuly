@@ -23,7 +23,7 @@ Academic in Information Systems at IFAL.
 ## ⛥ GitHub Stats ⛥
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alljuly&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![](&)
+![](&) <br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alljuly&layout=compact&theme=dark)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200">
 
