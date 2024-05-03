@@ -16,10 +16,6 @@ Academic in Information Systems at IFAL.
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Mobile
-
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ## ⛥ GitHub Stats ⛥
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alljuly&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
